@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with JavaScript
 - 💬 Ask me about my cat
 - 📫 How to reach me: @drextar
