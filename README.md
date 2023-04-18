@@ -7,7 +7,7 @@
 - 📫 How to reach me: drextar25@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a cat!
-- Portfolio: 
+- 💻 Portfolio: https://drextar25.github.io/portfolio/
 
 ![my-cat-says-hi](https://user-images.githubusercontent.com/108102331/232535337-232bd544-f92b-4ab9-960e-f42c8835d726.png)
 
