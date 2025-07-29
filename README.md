@@ -1,6 +1,6 @@
 ## Hi I'm Andressa Oliveira 👋
 
-### I am a self-taught Junior Web Developer who specializes in front-end programming. 
+### Full Stack Developer
 
 - 🌱 I’m currently learning React
 - 💬 Ask me about my cat
